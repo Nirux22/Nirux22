@@ -1,4 +1,29 @@
-<h1>Hi, I'm Niriksh First-year Mechanical Engineering student at NMAM Institute of Technology (NMAMIT), Nitte</h1>
+<h1> Hello, I'm Niriksh 
+
+💻 Currently learning **Python** and exploring how programming can enhance engineering design and automation
+⚙️ Interested in **CAD**, **Robotics**, and **project-based learning**
+---
+## 🧠 Skills I'm Learning
+
+* ✅ Python programming (beginner)
+* ✅ Git & GitHub
+* 🚀 CAD tools (Solid edge 2d,  – learning in progress)
+* 📘 Basics of Mechanical Engineering
+---
+## 🎯 Goals for 2025
+
+* Contribute to open-source Python projects
+* Build automation-based mini projects
+* Learn web development and use it to showcase mechanical ideas
+* Develop strong fundamentals in both coding and core engineering
+---
+## 📫 Let's Connect
+
+* 📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
+* 🔗 LinkedIn: *(add link if available)*
+---
+> “Learning never exhausts the mind. Keep building. Keep learning.” 🚀
+</h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
