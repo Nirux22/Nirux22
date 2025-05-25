@@ -19,8 +19,8 @@
 ---
 ## 📫 Let's Connect
 
-* 📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
-* 🔗 LinkedIn: *(add link if available)*
+* 📧 Email: \[[22niriksh2006@gmail@.com]
+* 🔗 LinkedIn: https://www.linkedin.com/in/niriksh-rk-169417331/
 ---
 > “Learning never exhausts the mind. Keep building. Keep learning.” 🚀
 </h1>
