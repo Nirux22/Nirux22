@@ -1,12 +1,11 @@
 <h1> Hello, I'm Niriksh 
 
 💻 Currently learning **Python** and exploring how programming can enhance engineering design and automation
-⚙️ Interested in **CAD**, **Robotics**, and **project-based learning**
+⚙️ Interested in **CAD**
 ---
 ## 🧠 Skills I'm Learning
 
 * ✅ Python programming (beginner)
-* ✅ Git & GitHub
 * 🚀 CAD tools (Solid edge 2d,  – learning in progress)
 * 📘 Basics of Mechanical Engineering
 ---
@@ -19,15 +18,12 @@
 ---
 ## 📫 Let's Connect
 
-* 📧 Email: \[[22niriksh2006@gmail@.com]
+* 📧 Email: \[22niriksh2006gmail@.com]
 * 🔗 LinkedIn: https://www.linkedin.com/in/niriksh-rk-169417331/
 ---
 > “Learning never exhausts the mind. Keep building. Keep learning.” 🚀
 </h1>
 <p></p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/Niriksh RK" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/niriksh._.22" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
